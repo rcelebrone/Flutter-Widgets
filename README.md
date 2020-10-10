@@ -1,4 +1,4 @@
-# flutter-widgets
+# Flutter Widgets
 
 A simple and useful flutter widget collection
 
